@@ -7,4 +7,4 @@ TRASH = 5
 
 DIM = 64
 
-RGB = True
+RGB = False
