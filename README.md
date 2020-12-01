@@ -8,6 +8,11 @@ original dataset's aspect ratio is 4:3.
 
 This dataset contains cropped center square of it.
 
+`dataset-resized-*` and `*` are exactly the same.
+
+`dataset-resized-*` are there just for compatibility.
+
 * use Pillow for resizing
 * format = `png`
 * resizing filter = `LANCZOS`
+
