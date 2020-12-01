@@ -16,3 +16,6 @@ This dataset contains cropped center square of it.
 * format = `png`
 * resizing filter = `LANCZOS`
 
+## to download original dataset
+`./gdrive_download.sh 1c4wiLZkR_Qs1OQmJ521yZRWgySq502WI`
+
