@@ -22,5 +22,5 @@ This dataset contains cropped center square of it.
 ## `*s.tar.gz` files
 `*s.tar.gz` files are sorted ones, such as following;
 * vinyl (film) type plastics are removed.
-* trash type is removed, except for two paper cups and two plastic yogurt containers)
+* trash type is removed, except for two paper cups and two plastic yogurt containers
 
