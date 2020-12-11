@@ -12,10 +12,15 @@ This dataset contains cropped center square of it.
 
 `dataset-resized-*` are there just for compatibility.
 
-* use Pillow for resizing
+* used Pillow for resizing
 * format = `png`
 * resizing filter = `LANCZOS`
 
 ## to download original dataset
 `./gdrive_download.sh 1c4wiLZkR_Qs1OQmJ521yZRWgySq502WI`
+
+## `*s.tar.gz` files
+`*s.tar.gz` files are sorted ones, such as following;
+* vinyl (film) type plastics are removed.
+* trash type is removed, except for two paper cups and two plastic yogurt containers)
 

@@ -48,7 +48,7 @@ def main():
     cardboardDir = os.path.join(prepath, 'cardboard')
     plasticDir = os.path.join(prepath, 'plastic')
     metalDir = os.path.join(prepath, 'metal')
-    trashDir = os.path.join(prepath, 'trash')
+    # trashDir = os.path.join(prepath, 'trash')
 
     color = ''
     if constants.RGB:
@@ -80,7 +80,7 @@ def main():
     fileWalk(metalDir, os.path.join(destPath, 'metal'))
 
     # TRASH
-    fileWalk(trashDir, os.path.join(destPath, 'trash'))
+    # fileWalk(trashDir, os.path.join(destPath, 'trash'))
 
 
 if __name__ == '__main__':
